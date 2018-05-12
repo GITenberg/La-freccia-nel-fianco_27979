@@ -1,0 +1,31 @@
+_repo: La-freccia-nel-fianco_27979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zùccoli, Luciano
+    aliases:
+    - Zuccoli, Luciano
+    - Ingenheim, Luciano, conte di
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '31846'
+    url: http://www.gutenberg.org/2009/agents/31846
+    wikipedia: http://it.wikipedia.org/wiki/Luciano_Zuccoli
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2009-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27979'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italian fiction -- 20th century'
+- !lcc 'PQ'
+title: La freccia nel fianco
+url: http://www.gutenberg.org/ebooks/27979
